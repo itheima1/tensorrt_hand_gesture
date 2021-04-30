@@ -17,7 +17,7 @@ python3 resnet50_demo.py -s
 # 测试结果
 测试没有优化的模型
 python yolov5_trt12.py
-
+测试int8量化的模型
 python yolov5_trt12_int8.py
 
 # 模型文件地址
