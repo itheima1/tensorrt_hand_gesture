@@ -19,3 +19,6 @@ python3 resnet50_demo.py -s
 python yolov5_trt12.py
 
 python yolov5_trt12_int8.py
+
+#　模型文件地址
+链接: https://pan.baidu.com/s/1QaKLq4q-FRbuCl0asEJ9hg 提取码: qrtc
