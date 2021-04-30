@@ -2,7 +2,7 @@
 docker run --gpus all -it --rm -v /root/ws/:/root/ws/ nvcr.io/nvidia/pytorch:20.11-py
 
 # 进到工程目录下：
-cd ~/ws/tensorrtDemo
+cd ~/ws/tensorrtHack2_1
 
 ##模型导出
 不同设备环境，需要重新导出engine文件
